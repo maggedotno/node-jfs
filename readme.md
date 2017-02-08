@@ -69,7 +69,7 @@ Any errors will be logged to Backup.08.02.2017.errors.log (date is example).
 
 Devices and mount points
 =============
-The first part of the path is called a device. Whether you can have multiple devies depends on your account type. Unlimited accounts can have an unlimited number of devices.
+The first part of the path is called a device. Whether you can have multiple devices depends on your account type. Unlimited accounts can have an unlimited number of devices.
 The device "Jotta" is reserved for the Jotta functionality. Under Jotta you will find "Sync", "Backup" and "Archive" which are reserved mount points.
 
     Jotta/Sync    -> This is where your sync folder resides
